@@ -5,7 +5,7 @@
     font-family: 'Montserrat', sans-serif;
 }
 
-body {
+.bodyCusDiv {
     background-color: #c9d6ff;
     background: linear-gradient(to right, #e2e2e2, #3aad81);
     display: flex;
